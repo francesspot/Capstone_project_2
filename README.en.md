@@ -1,26 +1,19 @@
-[Polski](README.md) | **English**
+🇵🇱 [Polski](README.md) | 🇬🇧 **English**
 
-# Capstone Project 2 — Personal Site with CSS
+# 🌙 Personal Site with CSS
 
-A one-page personal website styled with **CSS**, built as the second capstone project of a web development course.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-## Sections
+> 🎓 Capstone project from **The Complete Web Development Bootcamp** course (Angela Yu, Udemy)
 
-- **Header** — "I'm Franciszek, a programmer" with decorative stars,
-- **Hello** — a short introduction,
-- **My Skills** — programming and weightlifting, with animated GIFs,
-- **Get In Touch** — contact section.
+A one-page personal site where I first got to play with CSS ✨ — colours, Google Fonts and positioning decorative elements.
 
-Practised: CSS selectors, the box model, positioning, Google Fonts (Sacramento, Merriweather, Montserrat) and absolute positioning of decorative elements.
+## 🧩 Sections
 
-## Structure
+- 👋 **I'm Franciszek, a programmer** — header with stars
+- 💻🏋️ **My Skills** — programming and weightlifting (with animated GIFs)
+- 📬 **Get In Touch** — contact
 
-```
-index.html
-style.css
-images/   – star, moon and GIF illustrations
-```
+## 🚀 Preview
 
-## Running
-
-No build step — open `index.html` in a browser.
+Just open `index.html` in a browser.

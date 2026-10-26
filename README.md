@@ -1,26 +1,19 @@
-**Polski** | [English](README.en.md)
+🇵🇱 **Polski** | 🇬🇧 [English](README.en.md)
 
-# Capstone Project 2 — strona osobista z CSS
+# 🌙 Strona osobista z CSS
 
-Jednostronicowa strona osobista ostylowana w **CSS**, wykonana jako drugi projekt zaliczeniowy kursu tworzenia stron.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-## Sekcje
+> 🎓 Projekt zaliczeniowy z kursu **The Complete Web Development Bootcamp** (Angela Yu, Udemy)
 
-- **Nagłówek** — „I'm Franciszek, a programmer" z dekoracyjnymi gwiazdkami,
-- **Hello** — krótkie przedstawienie się,
-- **My Skills** — programowanie i podnoszenie ciężarów, z animowanymi GIF-ami,
-- **Get In Touch** — sekcja kontaktowa.
+Jednostronicowa wizytówka, na której pierwszy raz bawiłem się CSS-em ✨ — kolory, fonty z Google Fonts, pozycjonowanie dekoracji.
 
-Przećwiczone: selektory CSS, model pudełkowy, pozycjonowanie, Google Fonts (Sacramento, Merriweather, Montserrat) i absolutne pozycjonowanie elementów dekoracyjnych.
+## 🧩 Sekcje
 
-## Struktura
+- 👋 **I'm Franciszek, a programmer** — nagłówek z gwiazdkami
+- 💻🏋️ **My Skills** — programowanie i trening siłowy (z animowanymi GIF-ami)
+- 📬 **Get In Touch** — kontakt
 
-```
-index.html
-style.css
-images/   – gwiazdki, księżyc i ilustracje GIF
-```
+## 🚀 Podgląd
 
-## Uruchomienie
-
-Nie trzeba niczego budować — wystarczy otworzyć `index.html` w przeglądarce.
+Wystarczy otworzyć `index.html` w przeglądarce.
