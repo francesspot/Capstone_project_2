@@ -6,14 +6,14 @@
 
 > 🎓 Projekt zaliczeniowy z kursu **The Complete Web Development Bootcamp** (Angela Yu, Udemy)
 
-Jednostronicowa wizytówka, na której pierwszy raz bawiłem się CSS-em ✨ — kolory, fonty z Google Fonts, pozycjonowanie dekoracji.
+Jednostronicowa strona osobista ostylowana w CSS: kolorystyka, fonty z Google Fonts i pozycjonowanie elementów dekoracyjnych.
 
 ## 🧩 Sekcje
 
-- 👋 **I'm Franciszek, a programmer** — nagłówek z gwiazdkami
-- 💻🏋️ **My Skills** — programowanie i trening siłowy (z animowanymi GIF-ami)
-- 📬 **Get In Touch** — kontakt
+- **I'm Franciszek, a programmer** — nagłówek z gwiazdkami
+- **My Skills** — programowanie i trening siłowy (z animowanymi GIF-ami)
+- **Get In Touch** — kontakt
 
 ## 🚀 Podgląd
 
-Wystarczy otworzyć `index.html` w przeglądarce.
+Otwórz `index.html` w przeglądarce.
